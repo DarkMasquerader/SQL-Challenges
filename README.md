@@ -14,9 +14,9 @@ Some challenges will also have an 'Extension' section where I have come up with 
 - [Rising Temperature](./Challenge%202/)
 - [Students and Examinations](./Challenge%203/)
 - [Confirmation Rate](./Challenge%204/)
-<!-- - [](./Challenge%205/)
-- [](./Challenge%206/)
-- [](./Challenge%207/)
-- [](./Challenge%208/)
-- [](./Challenge%209/)
-- [](./Challenge%210/) -->
+- [Percentage of Users Attended a Contest](./Challenge%205/)
+- [Monthly Transactions](./Challenge%206/)
+<!-- - [](./Challenge%207/) -->
+<!-- - [](./Challenge%208/) -->
+<!-- - [](./Challenge%209/) -->
+<!-- - [](./Challenge%210/)  -->
