@@ -114,7 +114,7 @@ The third case is required in edge cases where there are only 3 valid IDs.
 With the above established, all that remains is to select the distinct columns from `s1` and order them appropriately.
 
 ## Alternative Solution 
-Given the amount of fun I had with this challenge, I put together an(what I believe to be) easier-to-read, yet more verbose solution:
+Given the amount of fun I had with this challenge, I put together an easier-to-read, yet more verbose solution:
 ```sql
 WITH 
 
