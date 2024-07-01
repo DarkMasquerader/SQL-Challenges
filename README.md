@@ -10,8 +10,8 @@ The documented challenges follow this structure:
 Some challenges will also have an 'Extension' section where I have come up with an additional scenario based on the current challenge.
 
 ## Challenges
-- [Customer Who Visited but Did Not Make Any Transactions](./Challenge%201/)
 - [Trips and Users*](./Challenge%207/)
+- [Customer Who Visited but Did Not Make Any Transactions](./Challenge%201/)
 - [Rising Temperature](./Challenge%202/)
 - [Percentage of Users Attended a Contest](./Challenge%205/)
 - [Students and Examinations](./Challenge%203/)
