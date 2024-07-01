@@ -9,7 +9,10 @@ The documented challenges follow this structure:
 
 Some challenges will also have an 'Extension' section where I have come up with an additional scenario based on the current challenge.
 
+(**Note:** Particularly complex challenges are marked with an asterisk.)
+
 ## Challenges
+- [Human Traffic of Stadium*](./Challenge%208/)
 - [Trips and Users*](./Challenge%207/)
 - [Customer Who Visited but Did Not Make Any Transactions](./Challenge%201/)
 - [Rising Temperature](./Challenge%202/)
@@ -17,6 +20,5 @@ Some challenges will also have an 'Extension' section where I have come up with 
 - [Students and Examinations](./Challenge%203/)
 - [Confirmation Rate](./Challenge%204/)
 - [Monthly Transactions](./Challenge%206/)
-<!-- - [](./Challenge%208/) -->
 <!-- - [](./Challenge%209/) -->
 <!-- - [](./Challenge%210/)  -->
