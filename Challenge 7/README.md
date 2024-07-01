@@ -36,7 +36,7 @@ Write a solution to find the cancellation rate of requests with unbanned users (
 ## Example
 Below is an example of the expected output for the corresponding input.
 
-**Table: Trips:**
+**Table: Trips**
 
 | id  | client_id | driver_id | city_id | status              | request_at |
 |-----|-----------|-----------|---------|---------------------|------------|
@@ -51,7 +51,7 @@ Below is an example of the expected output for the corresponding input.
 | 9   | 3         | 10        | 12      | completed           | 2013-10-03 |
 | 10  | 4         | 13        | 12      | cancelled_by_driver | 2013-10-03 |
 
-**Table: Users:**
+**Table: Users**
 
 | users_id | banned | role   |
 |----------|--------|--------|
