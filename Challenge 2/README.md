@@ -15,6 +15,7 @@ There are no different rows with the same `recordDate`.
 This table contains information about the temperature on a certain day.
 
 ## Example
+Below is an example of the expected output for the corresponding input.
 
 **Table: Weather**
 
