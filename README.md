@@ -9,6 +9,8 @@ The documented challenges follow this structure:
 
 Some challenges will also have an 'Extension' section where I have come up with an additional scenario based on the current challenge.
 
+I'd recommend taking a look at [this](./Challenge%208/) challenge first as it is the challenge I had, by far, the most fun on!
+
 (**Note:** Particularly complex challenges are marked with an asterisk.)
 
 ## Challenges
