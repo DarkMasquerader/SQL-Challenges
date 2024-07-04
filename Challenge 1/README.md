@@ -1,4 +1,4 @@
-# Challenge 1 - Customer Who Visited but Did Not Make Any Transactions
+# Challenge: Customer Who Visited but Did Not Make Any Transactions
 **Goal**: Isolate customers in the database who have visited, but do not have any transactions.\
 **Source**: The challenge can be found [here](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=problem-list-v2&envId=mei43yec).
 
