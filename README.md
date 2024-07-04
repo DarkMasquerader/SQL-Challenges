@@ -14,8 +14,8 @@ I'd recommend taking a look at [this](./Challenge%208/) challenge first as it is
 (**Note:** Particularly complex challenges are marked with an asterisk.)
 
 ## Challenges
-- [Average Selling Price](./Challenge%211/) 
-- [Biggest Single Number](./Challenge%210/) 
+- [Average Selling Price](./Challenge%2011/) 
+- [Biggest Single Number](./Challenge%2010/) 
 - [Confirmation Rate](./Challenge%204/)
 - [Customer Who Visited but Did Not Make Any Transactions](./Challenge%201/)
 - [Department Top Three Salaries*](./Challenge%209/)
@@ -26,11 +26,11 @@ I'd recommend taking a look at [this](./Challenge%208/) challenge first as it is
 - [Rising Temperature](./Challenge%202/)
 - [Students and Examinations](./Challenge%203/)
 - [Trips and Users*](./Challenge%207/)
-<!-- - [](./Challenge%213/)  -->
-<!-- - [](./Challenge%214/)  -->
-<!-- - [](./Challenge%215/)  -->
-<!-- - [](./Challenge%216/)  -->
-<!-- - [](./Challenge%217/)  -->
-<!-- - [](./Challenge%218/)  -->
-<!-- - [](./Challenge%219/)  -->
-<!-- - [](./Challenge%220/)  -->
+<!-- - [](./Challenge%2013/)  -->
+<!-- - [](./Challenge%2014/)  -->
+<!-- - [](./Challenge%2015/)  -->
+<!-- - [](./Challenge%2016/)  -->
+<!-- - [](./Challenge%2017/)  -->
+<!-- - [](./Challenge%2018/)  -->
+<!-- - [](./Challenge%2019/)  -->
+<!-- - [](./Challenge%2020/)  -->
